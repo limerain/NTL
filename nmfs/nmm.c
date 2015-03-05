@@ -750,6 +750,10 @@ static int __init init_nm_nmm(void)
 	// unsigned char *start;
 	int i;
 
+	/**** Author : Se Kwon Lee
+	 *    NTL git test         ****/
+	printk(KERN_ALERT "[sekwon]: NTL git test\n");
+
 	/* Fixed metadata */
 	// void *tmp_vaddr;
 
