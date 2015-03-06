@@ -1,6 +1,8 @@
 #
 # Makefile for the linux nmfs routines.
 #
+#
+# 가나다라마바사아자차카타파하
 
 obj-y += nmm.o
 obj-y += nmfs.o
